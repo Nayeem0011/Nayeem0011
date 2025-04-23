@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nayeem</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh!</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/cf08e503-b00b-49d1-82e5-d6eb0112c517)
+">
 
 - 👨‍💻 All of my projects are available at [https://nayeem0011.github.io/My-Portfolio/](https://nayeem0011.github.io/My-Portfolio/)
 
