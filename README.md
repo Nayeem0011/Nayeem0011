@@ -29,6 +29,9 @@ I’m a Front End Web developer passionate about making error-free websites with
 
 
 ## ☕ Connect with me!
+<p align="left">
+<a href="https://fb.com/https://www.facebook.com/share/18wo4xrxt8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/18wo4xrxt8/" height="30" width="40" /></a>
+</p>
 
 <br> 
 
