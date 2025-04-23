@@ -1,11 +1,20 @@
-## Hi, I'm Ali Hossain 👋
-[<img src='https://github.com/shovoalways/shovoalways/blob/main/img/bg.jpg?raw=true' alt='Ali Hossain'>](https://github.com/shovoalways/)
+<h1 align="center">Hi 👋, I'm Nayeem</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh!</h3>
+<br>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<br>
+<br>
 <p>
 👑 I am Web Developer <br> 
 🖊️ Love to write code <br> 
 🎤 Like to share my knowledge </p> 
-
-
+- ⚡Fun fact **I am funny😁(●'◡'●)**
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <p align="left"> <a href="https://twitter.com/shovoalways" target="blank"><img src="https://img.shields.io/twitter/follow/shovoalways?logo=twitter&style=for-the-badge" alt="shovoalways" /></a> </p>
 
 ## 🚀 About Me
