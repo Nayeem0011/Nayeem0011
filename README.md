@@ -50,4 +50,3 @@ I’m a Front End Web developer passionate about making error-free websites with
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
 </div>
 <br>
-<br>
