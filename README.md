@@ -55,5 +55,5 @@ I’m a Front End Web developer passionate about making error-free websites with
 ## 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Nayeem0011&theme=tokyonight)
 ##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayeem0011&layout=compact&theme=tokyonight)
+
 <br>
