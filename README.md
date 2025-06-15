@@ -33,6 +33,7 @@ I’m a Front End Web developer passionate about making error-free websites with
 ✅ SASS <br>
 ✅ PUG <br>
 ✅ JavaScript <br>
+✅ React<br>
 ✅ Bootstrap <br>
 
 
