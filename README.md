@@ -64,9 +64,7 @@ I’m a Front End Web developer passionate about making error-free websites with
 
 ## 🐍 Snake Animation
 
-![Snake Animation](https://github.com/tubakhxn/tubakhxn/blob/output/github-contribution-grid-snake.svg)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+![Snake Animation](https://github.com/Nayeem0011/Nayeem0011/blob/output/github-contribution-grid-snake.svg)
 
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
