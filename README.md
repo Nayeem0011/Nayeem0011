@@ -56,6 +56,7 @@ I’m a Front End Web developer passionate about making error-free websites with
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
 </div>
 
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nayeem0011&show_icons=true&theme=radical" alt="Nayeem0011 GitHub Stats"/>
 </p>
