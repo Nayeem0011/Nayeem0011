@@ -2,6 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Nayeem</h1>
 
+<!-- Animated Gif -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
+</p>
+
 <!-- Profile Views Counter -->
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=Nayeem0011&label=Profile%20Views&color=1E90FF&style=plastic" alt="Profile Views">
@@ -61,10 +66,4 @@ I’m a Front End Web developer passionate about making error-free websites with
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayeem0011&layout=compact&theme=tokyonight)
 
 <br>
-
-<!-- Animated Gif -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
-</p>
-
 
