@@ -61,11 +61,3 @@ I’m a Front End Web developer passionate about making error-free websites with
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayeem0011&layout=compact&theme=tokyonight)
 
 <br>
-
-## 🐍 Snake Animation
-
-![Snake Animation](https://github.com/Nayeem0011/Nayeem0011/blob/output/github-contribution-grid-snake.svg)
-
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
