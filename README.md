@@ -56,14 +56,13 @@ I’m a Front End Web developer passionate about making error-free websites with
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
 </div>
 
-## ## 📊 GitHub Stats
-![Nayeem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nayeem0011&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nayeem0011&show_icons=true&theme=radical" alt="Nayeem0011 GitHub Stats"/>
+</p>
 
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=Nayeem0011&theme=tokyonight)
-
-## 🧠 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayeem0011&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nayeem0011&theme=github_dark"/>
+</p>
 
 <br>
 
