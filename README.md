@@ -61,3 +61,21 @@ I’m a Front End Web developer passionate about making error-free websites with
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayeem0011&layout=compact&theme=tokyonight)
 
 <br>
+
+
+
+
+
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://github.com/tubakhxn">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Graphic%20Designer;CS%20Engineering;Flutter%20Development;Full%20Stack%20Development&font=Pacifico&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=45">
+  </a>
+</p>
+
+<!-- Animated Gif -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
+</p>
+
+
