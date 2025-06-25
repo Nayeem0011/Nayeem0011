@@ -67,3 +67,6 @@ I’m a Front End Web developer passionate about making error-free websites with
 </p>
 
 ![Snake Animation](https://github.com/Nayeem0011/Nayeem0011/blob/output/github-contribution-grid-snake.svg)
+
+![Snake Animation](https://github.com/Nayeem0011/Nayeem0011/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+
