@@ -80,3 +80,13 @@ I’m a Front End Web developer passionate about making error-free websites with
 </p>
 
 
+---
+
+<h2 align="center">🐍 GitHub Contribution Snake Animation</h2>
+
+<p align="center">
+  <img src="https://github.com/Nayeem0011/Nayeem0011/blob/output/github-contribution-grid-snake.svg" alt="Snake animation showing contributions" />
+</p>
+
+---
+
