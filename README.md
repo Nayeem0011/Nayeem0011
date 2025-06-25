@@ -65,12 +65,11 @@ I’m a Front End Web developer passionate about making error-free websites with
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
 </p>
----
 
+
+<!-- Snake Animation -->
 <h2 align="center">🐍 GitHub Contribution Snake Animation</h2>
 
 <p align="center">
   <img src="https://github.com/Nayeem0011/Nayeem0011/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake animation in dark theme" />
 </p>
-
----
