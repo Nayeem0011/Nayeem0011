@@ -1,9 +1,5 @@
 <img src="https://i.ibb.co.com/hRbggGpq/202650321-7f4da361-f98f-4345-8df4-adf352a113221-ezgif-com-resize-1.gif" alt="coding animation" width="100%" />
 
-<div align="center">
-  <img height="200" width = "650" src="https://github.com/user-attachments/assets/e1da895e-dfe2-425a-9d93-2413e11fef8e"  />
-</div>
-
 <h1 align="center">Hi 👋, I'm Nayeem</h1>
 
 <!-- Profile Views Counter -->
@@ -77,3 +73,7 @@ I’m a Front End Web developer passionate about making error-free websites with
 <p align="center">
   <img src="https://github.com/Nayeem0011/Nayeem0011/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake animation in dark theme" />
 </p>
+
+<div align="center">
+  <img height="200" width = "650" src="https://github.com/user-attachments/assets/e1da895e-dfe2-425a-9d93-2413e11fef8e"  />
+</div>
