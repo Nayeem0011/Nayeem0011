@@ -74,6 +74,6 @@ I’m a Front End Web developer passionate about making error-free websites with
   <img src="https://github.com/Nayeem0011/Nayeem0011/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake animation in dark theme" />
 </p>
 
-<div align="center">
+<!--<div align="center">
   <img height="200" width = "650" src="https://github.com/user-attachments/assets/e1da895e-dfe2-425a-9d93-2413e11fef8e"  />
-</div>
+</div>-->
