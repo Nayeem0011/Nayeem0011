@@ -119,6 +119,62 @@ I’m a Front End Web developer passionate about making error-free websites with
 </table>-->
 ## 🛠️ Languages & Tools I Use
 
+<p align="center">
+  <a href="#" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30"/>
+    <br/>HTML5
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30"/>
+    <br/>CSS3
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="30"/>
+    <br/>SASS
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" width="30"/>
+    <br/>PUG
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/>
+    <br/>JavaScript
+  </a>
+</p>
+
+<p align="center">
+  <a href="#" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30"/>
+    <br/>React
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="30"/>
+    <br/>Tailwind
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="30"/>
+    <br/>Bootstrap
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30"/>
+    <br/>Git
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30"/>
+    <br/>Node.js
+  </a>
+</p>
+
+## 🛠️ Languages & Tools I Use
+
 <!-- 🧱 First Row -->
 <table align="center">
   <tr>
