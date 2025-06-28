@@ -111,12 +111,6 @@ I’m a Front End Web developer passionate about making error-free websites with
   </tr>
 </table>
 
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
-</div>
-
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nayeem0011&show_icons=true&theme=radical" alt="Nayeem0011 GitHub Stats"/>
@@ -139,6 +133,10 @@ I’m a Front End Web developer passionate about making error-free websites with
 <p align="center">
   <img src="https://github.com/Nayeem0011/Nayeem0011/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake animation in dark theme" />
 </p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
+</div>
 
 <!--<div align="center">
   <img height="200" width = "650" src="https://github.com/user-attachments/assets/e1da895e-dfe2-425a-9d93-2413e11fef8e"  />
