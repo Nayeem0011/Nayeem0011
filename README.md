@@ -119,6 +119,7 @@ I’m a Front End Web developer passionate about making error-free websites with
 </table>-->
 ## 🛠️ Languages & Tools I Use
 
+<!-- 🧱 First Row -->
 <table align="center">
   <tr>
     <td align="center">🟥<br/>
@@ -142,6 +143,10 @@ I’m a Front End Web developer passionate about making error-free websites with
       <b>JavaScript</b>
     </td>
   </tr>
+</table>
+
+<!-- ⚛️ Second Row -->
+<table align="center">
   <tr>
     <td align="center">⚛️<br/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30"/><br/>
