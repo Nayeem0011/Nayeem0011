@@ -71,18 +71,21 @@ I’m a Front End Web developer passionate about making error-free websites with
 
 ## 🛠️ Languages & Tools I Use
 
-| Technology | Icon |
-|------------|------|
-| **HTML5** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30"/> |
-| **CSS3** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30"/> |
-| **SASS** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="30"/> |
-| **PUG** | <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" width="30"/> |
-| **JavaScript** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/> |
-| **React** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30"/> |
-| **Tailwind CSS** | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="30"/> |
-| **Bootstrap** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="30"/> |
-| **Git** | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30"/> |
-| **Node.js** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30"/> |
+**HTML5** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25"/>  
+**CSS3** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="25"/>  
+
+**SASS** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="25"/>  
+**PUG** <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" width="25"/>  
+
+**JavaScript** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25"/>  
+**React** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="25"/>  
+
+**Tailwind CSS** <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="25"/>  
+**Bootstrap** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="25"/>  
+
+**Git** <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="25"/>  
+**Node.js** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="25"/>
+
 
 
 <div align="center">
