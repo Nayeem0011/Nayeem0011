@@ -49,6 +49,8 @@ I’m a Front End Web developer passionate about making error-free websites with
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
+<br>
+
 ## ☕ Connect with me!
 <p align="center">
   <a href="https://x.com/sknayeemislam3" target="_blank">
