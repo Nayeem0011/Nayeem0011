@@ -173,59 +173,6 @@ I’m a Front End Web developer passionate about making error-free websites with
   </a>
 </p>
 
-## 🛠️ Languages & Tools I Use
-
-<!-- 🧱 First Row -->
-<table align="center">
-  <tr>
-    <td align="center">🟥<br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30"/><br/>
-      <b>HTML5</b>
-    </td>
-    <td align="center">🟦<br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30"/><br/>
-      <b>CSS3</b>
-    </td>
-    <td align="center">💗<br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="30"/><br/>
-      <b>SASS</b>
-    </td>
-    <td align="center">🐶<br/>
-      <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" width="30"/><br/>
-      <b>PUG</b>
-    </td>
-    <td align="center">💛<br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/><br/>
-      <b>JavaScript</b>
-    </td>
-  </tr>
-</table>
-
-<!-- ⚛️ Second Row -->
-<table align="center">
-  <tr>
-    <td align="center">⚛️<br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30"/><br/>
-      <b>React</b>
-    </td>
-    <td align="center">💨<br/>
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="30"/><br/>
-      <b>Tailwind</b>
-    </td>
-    <td align="center">💜<br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="30"/><br/>
-      <b>Bootstrap</b>
-    </td>
-    <td align="center">🔧<br/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30"/><br/>
-      <b>Git</b>
-    </td>
-    <td align="center">💚<br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30"/><br/>
-      <b>Node.js</b>
-    </td>
-  </tr>
-</table>
 
 
 
