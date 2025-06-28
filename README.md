@@ -71,23 +71,52 @@ I’m a Front End Web developer passionate about making error-free websites with
 
 ## 🛠️ Languages & Tools I Use
 
-| Technology | Icon |
-|------------|------|
-| **HTML5** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30"/> |
-| **CSS3** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30"/> |
-| **SASS** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="30"/> |
-| **PUG** | <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" width="30"/> |
-| **JavaScript** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/> |
-
-| Technology | Icon |
-|------------|------|
-| **React** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30"/> |
-| **Tailwind CSS** | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="30"/> |
-| **Bootstrap** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="30"/> |
-| **Git** | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30"/> |
-| **Node.js** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30"/> |
-
-
+<table>
+  <tr>
+    <td align="center">
+      <strong>HTML5</strong><br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+    </td>
+    <td align="center">
+      <strong>CSS3</strong><br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+    </td>
+    <td align="center">
+      <strong>SASS</strong><br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"/>
+    </td>
+    <td align="center">
+      <strong>PUG</strong><br/>
+      <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" width="40"/>
+    </td>
+    <td align="center">
+      <strong>JavaScript</strong><br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>React</strong><br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+    </td>
+    <td align="center">
+      <strong>Tailwind CSS</strong><br/>
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+    </td>
+    <td align="center">
+      <strong>Bootstrap</strong><br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40"/>
+    </td>
+    <td align="center">
+      <strong>Git</strong><br/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+    </td>
+    <td align="center">
+      <strong>Node.js</strong><br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+    </td>
+  </tr>
+</table>
 
 
 <div align="center">
