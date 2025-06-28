@@ -13,10 +13,13 @@
 <br>
 <br>
 <p>
-👑 I am Web Developer <br> 
-🖊️ Love to write code <br> 
-🎤 Like to share my knowledge </p> 
-- ⚡Fun fact **I am funny😁(●'◡'●)**
+## 👑 About Me
+<p align="left">
+  💻 <strong>I am a Web Developer</strong><br>
+  🖊️ I love to <strong>write code</strong><br>
+  🎤 I like to <strong>share my knowledge</strong><br>
+  ⚡ <strong>Fun fact:</strong> I am funny 😁 (●'◡'●)
+</p>
 <br>
 <br>
 <br>
