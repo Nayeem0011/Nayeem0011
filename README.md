@@ -37,12 +37,25 @@ I’m a Front End Web developer passionate about making error-free websites with
 ✅ Bootstrap <br>
 
 
-## ☕ Connect with me!
+<!--## ☕ Connect with me!
 <p align="center">
 <a href="https://twitter.com/https://x.com/sknayeemislam3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/sknayeemislam3" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/sk.nayeem.922535/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sk.nayeem.922535/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/sknayeem6906/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sknayeem6906/" height="30" width="40" /></a>
+</p>-->
+## ☕ Connect with me!
+<p align="center">
+  <a href="https://x.com/sknayeemislam3" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sknayeemislam3" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/sk.nayeem.922535/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sk.nayeem.922535" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/sknayeem6906/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sknayeem6906" height="30" width="40" />
+  </a>
 </p>
+
 <br> 
 
 <h3 align="left">Languages and Tools:</h3>
