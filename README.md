@@ -138,6 +138,7 @@ I’m a Front End Web developer passionate about making error-free websites with
   <img src="https://github.com/Nayeem0011/Nayeem0011/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake animation in dark theme" />
 </p>
 
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
 </div>
