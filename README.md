@@ -146,4 +146,3 @@ I’m a Front End Web developer passionate about making error-free websites with
 <!--<div align="center">
   <img height="200" width = "650" src="https://github.com/user-attachments/assets/e1da895e-dfe2-425a-9d93-2413e11fef8e"  />
 </div>-->
-
