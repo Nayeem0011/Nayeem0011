@@ -51,7 +51,7 @@ I’m a Front End Web developer passionate about making error-free websites with
 
 <br>
 
-## ☕ Connect with me!
+<!-- ## ☕ Connect with me!
 <p align="center">
   <a href="https://x.com/sknayeemislam3" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sknayeemislam3" height="30" width="40" />
@@ -62,7 +62,7 @@ I’m a Front End Web developer passionate about making error-free websites with
   <a href="https://www.instagram.com/sknayeem6906/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sknayeem6906" height="30" width="40" />
   </a>
-</p>
+</p> -->
 
 ## ☕ Connect with me!
 <p align="center">
