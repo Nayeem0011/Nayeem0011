@@ -198,7 +198,7 @@ I’m a Front End Web developer passionate about making error-free websites with
     </td>
     <td align="center">
       <strong>Zustand</strong><br/>
-      <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/logo/logo.svg" width="40"/>
+      <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logoColor=white" alt="Zustand" />
     </td>
     <td align="center">
       <strong>Git</strong><br/>
