@@ -78,9 +78,12 @@ I’m a Front End Web developer passionate about making error-free websites with
  <a href="https://t.me/sknayeemislam" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://wa.me/your_whatsapp_number" target="_blank">
+  <a href="https://wa.me/01852705818" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
+ <a href="mailto:sknayeemislam384@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 </p>
 
 
