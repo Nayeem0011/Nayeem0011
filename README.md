@@ -46,7 +46,6 @@ I’m a Front End Web developer passionate about making error-free websites with
   <img src="https://img.shields.io/badge/PUG-A86454?style=for-the-badge&logo=pug&logoColor=white" alt="PUG" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
@@ -57,9 +56,6 @@ I’m a Front End Web developer passionate about making error-free websites with
 
 ## ☕ Connect with me!
 <p align="center">
-  <a href="https://x.com/sknayeemislam3" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
   <a href="https://www.facebook.com/sk.nayeem.922535/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
@@ -113,24 +109,12 @@ I’m a Front End Web developer passionate about making error-free websites with
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
     </td>
     <td align="center">
-      <strong>Bootstrap</strong><br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40"/>
-    </td>
-    <td align="center">
       <strong>Redux</strong><br/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/>
     </td>
     <td align="center">
       <strong>Zustand</strong><br/>
       <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logoColor=white" alt="Zustand" />
-    </td>
-    <td align="center">
-      <strong>Git</strong><br/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-    </td>
-    <td align="center">
-      <strong>Node.js</strong><br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
     </td>
   </tr>
 </table>
