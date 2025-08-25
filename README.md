@@ -151,6 +151,67 @@ I’m a Front End Web developer passionate about making error-free websites with
   </tr>
 </table>
 
+
+## 🛠️ Languages & Tools I Use
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <strong>HTML5</strong><br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+    </td>
+    <td align="center">
+      <strong>CSS3</strong><br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+    </td>
+    <td align="center">
+      <strong>SASS</strong><br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"/>
+    </td>
+    <td align="center">
+      <strong>PUG</strong><br/>
+      <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" width="40"/>
+    </td>
+    <td align="center">
+      <strong>JavaScript</strong><br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+    </td>
+    <td align="center">
+      <strong>TypeScript</strong><br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+    </td>
+    <td align="center">
+      <strong>React</strong><br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+    </td>
+    <td align="center">
+      <strong>Tailwind CSS</strong><br/>
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+    </td>
+    <td align="center">
+      <strong>Bootstrap</strong><br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40"/>
+    </td>
+    <td align="center">
+      <strong>Redux</strong><br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/>
+    </td>
+    <td align="center">
+      <strong>Zustand</strong><br/>
+      <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/logo/logo.svg" width="40"/>
+    </td>
+    <td align="center">
+      <strong>Git</strong><br/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+    </td>
+    <td align="center">
+      <strong>Node.js</strong><br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+    </td>
+  </tr>
+</table>
+
+
 <br> 
 
 ## 📊 GitHub Stats
