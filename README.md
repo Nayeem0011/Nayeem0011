@@ -51,19 +51,6 @@ I’m a Front End Web developer passionate about making error-free websites with
 
 <br>
 
-<!-- ## ☕ Connect with me!
-<p align="center">
-  <a href="https://x.com/sknayeemislam3" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sknayeemislam3" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/sk.nayeem.922535/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sk.nayeem.922535" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/sknayeem6906/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sknayeem6906" height="30" width="40" />
-  </a>
-</p> -->
-
 ## ☕ Connect with me!
 <p align="center">
   <a href="https://x.com/sknayeemislam3" target="_blank">
@@ -75,17 +62,13 @@ I’m a Front End Web developer passionate about making error-free websites with
   <a href="https://www.instagram.com/sknayeem6906/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
- <a href="https://t.me/sknayeemislam" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <a href="https://t.me/sknayeemislam" target="_blank">
+     <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://wa.me/01852705818" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  <a href="mailto:sknayeemislam384@gmail.com" target="_blank">
+     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
- <a href="mailto:sknayeemislam384@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
 </p>
-
 
 <br> 
 
