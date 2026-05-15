@@ -68,8 +68,6 @@ const nayeem = {
 
 ## 📊 GitHub Stats
 
-<!-- FIX: cache_seconds=1800 দিলে বেশি ঘন ঘন আপডেট হবে -->
-
 <div align="center">
 
 <a href="https://github.com/Nayeem0011">
@@ -97,16 +95,8 @@ const nayeem = {
 
 ## 🐍 Contribution Graph Snake
 
-<!-- 
-⚠️ FIX: Snake animation auto-update এর জন্য নিচের GitHub Actions workflow টা
-তোমার repo তে যোগ করতে হবে:
-
-ফাইল: .github/workflows/snake.yml
--->
-
 <div align="center">
 
-<!-- Dark theme snake (GitHub Actions দিয়ে generate হবে) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Nayeem0011/Nayeem0011/blob/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Nayeem0011/Nayeem0011/blob/output/github-contribution-grid-snake.svg">
