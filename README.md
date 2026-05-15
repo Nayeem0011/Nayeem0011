@@ -69,26 +69,14 @@ const nayeem = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<a href="https://github.com/Nayeem0011">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nayeem0011&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800&hide_border=true&rank_icon=github"/>
-</a>
-<a href="https://github.com/Nayeem0011">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayeem0011&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</a>
-
 </div>
 
 <div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nayeem0011&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
 </div>
-
+---
 <div align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nayeem0011&theme=tokyonight" width="100%"/>
-
 </div>
 
 ---
