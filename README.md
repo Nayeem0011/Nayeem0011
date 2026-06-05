@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nayeem&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20from%20Bangladesh&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nayeem&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20from%20Bangladesh&descAlignY=55&descAlign=50" width="100%"/>
 
 </div>
 
@@ -69,27 +69,16 @@ const nayeem = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<a href="https://github.com/Nayeem0011">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nayeem0011&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800&hide_border=true&rank_icon=github"/>
-</a>
-<a href="https://github.com/Nayeem0011">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayeem0011&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</a>
-
 </div>
 
 <div align="center">
-
-<!-- Streak Stats: herokuapp এর বদলে streak-stats.demolab.com — বেশি reliable -->
-<img src="https://streak-stats.demolab.com/?user=Nayeem0011&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nayeem0011&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
+## 
 
+<div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nayeem0011&theme=tokyonight" width="100%"/>
-
 </div>
 
 ---
@@ -99,9 +88,9 @@ const nayeem = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nayeem0011/Nayeem0011/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nayeem0011/Nayeem0011/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Nayeem0011/Nayeem0011/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Nayeem0011/Nayeem0011/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Nayeem0011/Nayeem0011/blob/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://github.com/Nayeem0011/Nayeem0011/blob/output/github-contribution-grid-snake-dark.svg" width="100%">
 </picture>
 
 </div>
@@ -112,8 +101,7 @@ const nayeem = {
 
 <div align="center">
 
-<!-- Trophy: row=2 দিলে 2 line এ দেখাবে, column বাদ দিলে সব trophy load হবে -->
-<img src="https://github-profile-trophy.vercel.app/?username=Nayeem0011&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&row=2" alt="GitHub Trophies"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nayeem0011&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -148,6 +136,7 @@ const nayeem = {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nayeem0011&label=Profile%20Views&color=00D9FF&style=for-the-badge)
 
+<!-- Animated Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
