@@ -81,6 +81,15 @@ const nayeem = {
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nayeem0011&theme=tokyonight" width="100%"/>
 </div>
 
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nayeem0011&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nayeem0011&theme=tokyonight" width="100%"/>
+</div>
+
 ---
 
 ## 🐍 Contribution Graph Snake
