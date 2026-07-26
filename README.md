@@ -101,7 +101,7 @@ const nayeem = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nayeem0011&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=developernayeemx&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -111,7 +111,7 @@ const nayeem = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nayeem0011&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=developernayeemx&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
 
