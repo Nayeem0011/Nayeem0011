@@ -72,13 +72,13 @@ const nayeem = {
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nayeem0011&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=developernayeemx&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak"/>
 </div>
 
 ## 
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nayeem0011&theme=tokyonight" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developernayeemx&theme=tokyonight" width="100%"/>
 </div>
 
 ---
@@ -88,9 +88,9 @@ const nayeem = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Nayeem0011/Nayeem0011/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Nayeem0011/Nayeem0011/blob/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://github.com/Nayeem0011/Nayeem0011/blob/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Nayeem0011/developernayeemx/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Nayeem0011/developernayeemx/blob/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://github.com/Nayeem0011/developernayeemx/blob/output/github-contribution-grid-snake-dark.svg" width="100%">
 </picture>
 
 </div>
