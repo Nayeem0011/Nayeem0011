@@ -69,9 +69,6 @@ const nayeem = {
 ## 📊 GitHub Stats
 
 <div align="center">
-</div>
-
-<div align="center">
 <img src="https://streak-stats.demolab.com/?user=developernayeemx&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak"/>
 </div>
 
